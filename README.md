@@ -41,7 +41,7 @@ Aplicación web en PHP y MySQL para registrar, buscar y administrar contactos pe
 
 ## Base de datos
 
-- `database.sql`: esquema completo para una instalación nueva, con las cinco categorías iniciales.
+- `agenda_db.sql`: esquema completo para una instalación nueva, con las cinco categorías iniciales.
 - `migration_mejoras.sql`: agrega categorías, favoritos y fecha de creación a una instalación anterior, y asigna la categoría “Otro” a los contactos existentes. Haz una copia de seguridad antes de ejecutarlo y ejecútalo una sola vez con la base de destino seleccionada.
 
 ## Despliegue en InfinityFree
