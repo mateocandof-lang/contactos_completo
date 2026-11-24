@@ -1,14 +1,11 @@
-# Agenda Personal de Contactos
-
-Aplicación web en PHP y MySQL para registrar, buscar y administrar contactos personales.
-
 ## URL pública
 
-- HTTP: [http://agenda-contactosutpl.free.ie/login.php](http://agenda-contactosutpl.free.ie/login.php)
-- HTTPS: [https://agenda-contactosutpl.free.ie/login.php](https://agenda-contactosutpl.free.ie/login.php)
+- **HTTP:** [http://agenda-contactosutpl.free.je/login.php](http://agenda-contactosutpl.free.je/login.php)
+- **HTTPS:** [https://agenda-contactosutpl.free.je/login.php](https://agenda-contactosutpl.free.je/login.php)
 
-**Estado del despliegue:** el dominio fue creado y el código se subió a InfinityFree, pero durante la verificación el sitio devolvió un error 403 por HTTP y un error de certificado por HTTPS. La aplicación todavía debe validarse antes de considerarla disponible para evaluación.
+La aplicación está publicada en InfinityFree y la página de inicio de sesión es accesible desde Internet. Las funciones que requieren iniciar sesión se verificarán con las capturas de pantalla.
 
+## Repositorio
 ## Repositorio
 
 [https://github.com/mateocandof-lang/contactos_completo](https://github.com/mateocandof-lang/contactos_completo)
@@ -55,4 +52,11 @@ No subas respaldos SQL con datos personales a la carpeta pública del hosting ni
 
 ## Capturas de pantalla
 
-Pendientes: agregar capturas reales de la aplicación funcionando, incluyendo el inicio de sesión y el panel con las mejoras implementadas.
+<img width="1913" height="1026" alt="image" src="https://github.com/user-attachments/assets/c1cd4906-58c6-4cae-8c1e-6566bfa24b6c" />
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/a848d6b3-fac9-4ef7-80bb-21860f29d677" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/0b094bd0-654c-4eff-87be-2412c1ae09d3" />
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/8793bb5d-34d7-4a2d-94d1-b5b3a44a05c3" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/164ce384-003d-485d-aefe-be5386332c8e" />
+
+
+
